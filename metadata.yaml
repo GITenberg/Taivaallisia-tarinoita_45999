@@ -1,0 +1,33 @@
+_repo: Taivaallisia-tarinoita_45999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lampén, Ernst
+    alias: Lampen, Ernst
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '43565'
+    url: http://www.gutenberg.org/2009/agents/43565
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45999'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+tableOfContents: Verisen veljessodan kynsissä -- Pietarin pihoille -- Aaronin temppelissä
+  -- Pohjantähti -- Väinämöisen pirtissä -- Istunto alkaa -- Käyntini Ainolassa --
+  Kiertomatkoilla -- Kiialaan -- Vesikansassa -- Impilahdessa -- Siimes Kanervio --
+  Tuonelan koskissa -- Raadin istunnossa -- Lauantai-ilta -- Takaisin Väinölään --
+  Lähtö Tuonelasta.
+title: Taivaallisia tarinoita
+url: http://www.gutenberg.org/ebooks/45999
